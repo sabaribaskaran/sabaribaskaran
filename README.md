@@ -34,7 +34,7 @@
 
 ## 📫 Connect with Me
 - LinkedIn: https://www.linkedin.com/in/sabari-baskaran/
-- Email: sabaribaskaran04@gmail.com
+- Email: sabaricollege04@gmail.com
 
 
 <!--
