@@ -1,27 +1,31 @@
 # Hi 👋 I'm Sabari Baskaran
 
-🎓 3rd Year Computer Science Engineering Student  
+🎓 4th Year Computer Science Engineering Student  
 💻 Aspiring Software Engineer | ML Engineer Intern  
 🚀 Interested in Open Source, Full-Stack & AI Projects  
 
 ---
 
 ## 🔧 Skills
-- Languages: Java, Python, JavaScript, PHP
-- Frameworks: React, Laravel
-- Databases: MySQL, Firebase
+- Languages: Java, C++, Python, JavaScript, PHP
+- Frameworks: React, Laravel, Bootstrap
+- Databases: MySQL, Firebase, MongoDB
 - Tools: Git, Docker, Power BI
-- Domains: Machine Learning, IoT, Web Development
+- Domains: Web Development, Mobile Application Development, Machine Learning, IoT
 
 ---
 
 ## 📌 Projects
+🔹 Obstacle Avoidance Robot
+🔹 Employee Management System
+🔹 Trend-v Mobile App for Social Activity
+🔹 Billing and Inventory Management system
 🔹 Smart Recipe App – Ingredient Recognition using AI  
 🔹 Smart Plant Irrigation System (ESP32 + MQTT + Wokwi)  
 🔹 Automated Web Application Penetration Testing Tool  
 🔹 Sales Audit System with Chatbot  
 
-👉 Check my repositories below ⬇️
+<!--👉 Check my repositories below ⬇️-->
 
 ---
 
