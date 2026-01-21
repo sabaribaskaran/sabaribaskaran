@@ -33,7 +33,7 @@
 ---
 
 ## 📫 Connect with Me
-- LinkedIn: (add link)
+- LinkedIn: https://www.linkedin.com/in/sabari-baskaran/
 - Email: sabaribaskaran04@gmail.com
 
 
